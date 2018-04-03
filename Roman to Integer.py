@@ -25,4 +25,4 @@
             else:
                 n+=rule_add[i]
             p=i
-        return n
+        print n
