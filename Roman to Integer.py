@@ -1,3 +1,4 @@
+        s="ROMAN"
         rule_add = {
             'I': 1,
             'V': 5,
